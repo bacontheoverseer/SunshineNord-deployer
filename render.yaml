@@ -2,7 +2,7 @@ services:
   - type: web
     name: sunshine-node-link
     env: docker
-    repo: https://github.com/bacontheoverseer/sunshine-deployer # Link to THIS github repo
+    repo: https://github.com/bacontheoverseer/SunshineNord-deployer # Link to THIS github repo
     plan: free
     region: oregon # Fast default region
     dockerconfig:
