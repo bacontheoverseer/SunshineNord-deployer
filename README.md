@@ -20,13 +20,19 @@ Choose a button below to deploy your own Sunshine Project link for free:
 
 ### 🚀 1-Click Deployment
 
-| Platform | Deployment Link | Instructions |
-| :--- | :--- | :--- |
-| **Hugging Face** | [![Deploy to Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-to-spaces-blue.svg)](https://huggingface.co/new-space) | 1. Click the badge.<br>2. Choose **Docker** as the SDK.<br>3. Click **Public template** and paste `bacontheoverseer/SunshineNord-deployer`. |
+[![Deploy to Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-to-spaces-blue.svg)](https://huggingface.co/new-space)
 
-### 📋 Instructions
+### 📋 Instructions for Render
 1. Click the **Deploy to Render** button above.
 2. Sign in or create a free account on Render.
 3. Click **Apply** on the blueprint settings page.
 4. Wait 2–3 minutes for the container to spin up. Render will provide a live target URL (e.g., `https://sunshine-node-link.onrender.com`) where your app is fully active!
 NOTE: Render Free Instances spin down after 50 seconds of inactivity, so if noone is using your link and then you try to access it, it may take a little to start up. This does NOT reset your site progress.
+
+### 📋 Instructions for Huggingface Spaces
+1. Click the **Deploy to Huggingface** button above.
+2. Sign in or create a free account on Huggingface.
+3. Choose Docker as the SDK
+4. Click Public Template and paste `bacontheoverseer/SunshineNord-deployer`
+
+Thanks for choosing Sunshine!
