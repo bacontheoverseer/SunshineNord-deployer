@@ -15,3 +15,4 @@ Click the button below to automatically set up and host your link on a free Rend
 2. Sign in or create a free account on Render.
 3. Click **Apply** on the blueprint settings page.
 4. Wait 2–3 minutes for the container to spin up. Render will provide a live target URL (e.g., `https://sunshine-node-link.onrender.com`) where your app is fully active!
+NOTE: Render Free Instances spin down after 50 seconds of inactivity, so if noone is using your link and then you try to access it, it may take a little to start up. This does NOT reset your site progress.
