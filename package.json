@@ -1,0 +1,10 @@
+{
+  "name": "sunshine-nord-deployer",
+  "version": "1.0.0",
+  "description": "Production container layer for Sunshine",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
