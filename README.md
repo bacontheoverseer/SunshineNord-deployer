@@ -10,6 +10,8 @@ Choose a button below to deploy your own Sunshine Project link for free:
   <img src="https://render.com/images/deploy-to-render.svg" alt="Deploy to Render">
 </a>
 
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/redirect?template_url=https://github.com/bacontheoverseer/SunshineNord-deployer)
+
 ### 📋 Instructions
 1. Click the **Deploy to Render** button above.
 2. Sign in or create a free account on Render.
