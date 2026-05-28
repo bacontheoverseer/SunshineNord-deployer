@@ -1,3 +1,11 @@
+---
+title: Sunshine Nord Node
+emoji: ☀️
+colorFrom: blue
+colorTo: pink
+sdk: docker
+app_port: 8080
+---
 # ☀️ Sunshine Network Deployer
 
 Deploy your own private instance of the Sunshine project. This could be for private use, or to unrestrict blocked sites at mass.
@@ -10,8 +18,8 @@ Choose a button below to deploy your own Sunshine Project link for free:
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
+[![Deploy to Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-to-spaces-blue.svg)](https://huggingface.co/new-space?template=bacontheoverseer/SunshineNord-deployer)
 
-[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/redirect?template_url=https://github.com/bacontheoverseer/SunshineNord-deployer)
 
 ### 📋 Instructions
 1. Click the **Deploy to Render** button above.
