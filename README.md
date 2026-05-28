@@ -4,7 +4,7 @@ Deploy your own private instance of the Sunshine project. This could be for priv
 
 ### 🚀 1-Click Deployment
 
-Click the button below to automatically set up and host your link on a free Render web service container:
+Choose a button below to deploy your own Sunshine Project link for free:
 
 <a href="https://render.com/deploy?repo=https://github.com/bacontheoverseer/SunshineNord-deployer">
   <img src="https://render.com/images/deploy-to-render.svg" alt="Deploy to Render">
