@@ -4,7 +4,6 @@ services:
     runtime: image
     image:
       url: docker.io/bacontheoverseer/sunshine-learning:latest # Pulls directly from your Docker Hub
-    repo: https://github.com/bacontheoverseer/SunshineNord-deployer # Link to your github repo
     plan: free
     region: oregon # Fast default region
     envVars:
