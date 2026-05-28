@@ -18,9 +18,7 @@ Choose a button below to deploy your own Sunshine Project link for free:
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
-### 🚀 1-Click Deployment
-
-[![Deploy to Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-to-spaces-blue.svg)](https://huggingface.co/new-space)
+[![Deploy to Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-on-spaces-md-dark.svg)](https://huggingface.co/spaces/bacontheoverseer/SunshineNord-deployer?duplicate=true)
 
 ### 📋 Instructions for Render
 1. Click the **Deploy to Render** button above.
