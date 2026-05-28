@@ -1,12 +1,12 @@
 # ☀️ Sunshine Network Deployer
 
-Deploy your own private, fast instance of the Sunshine proxy network with integrated realtime leaderboards instantly to the cloud.
+Deploy your own private instance of the Sunshine project. This could be for private use, or to unrestrict blocked sites at mass.
 
 ### 🚀 1-Click Deployment
 
 Click the button below to automatically set up and host your link on a free Render web service container:
 
-[![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/your-github-username/sunshine-deployer)
+[![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/bacontheoverseer/SunshineNord-deployer)
 
 ### 📋 Instructions
 1. Click the **Deploy to Render** button above.
