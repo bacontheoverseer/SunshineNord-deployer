@@ -1,0 +1,11 @@
+# Zeabur App Configuration Blueprint
+[service]
+name = "sunshine-node-link"
+type = "docker"
+
+[build]
+dockerfile = "Dockerfile"
+
+[deploy]
+# Tell Zeabur to route incoming web traffic straight to your proxy engine port
+port = 8080
