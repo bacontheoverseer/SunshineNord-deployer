@@ -1,11 +1,4 @@
----
-title: Sunshine Nord Node
-emoji: ☀️
-colorFrom: blue
-colorTo: pink
-sdk: docker
-app_port: 8080
----
+
 # ☀️ Sunshine Network Deployer
 
 Deploy your own private instance of the Sunshine project. This could be for private use, or to unrestrict blocked sites at mass.
@@ -18,7 +11,7 @@ Choose a button below to deploy your own Sunshine Project link for free:
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
-[![Deploy to Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-on-spaces-md-dark.svg)](https://huggingface.co/spaces/bacontheoverseer/SunshineNord-deployer?duplicate=true)
+
 
 ### 📋 Instructions for Render
 1. Click the **Deploy to Render** button above.
@@ -26,11 +19,5 @@ Choose a button below to deploy your own Sunshine Project link for free:
 3. Click **Apply** on the blueprint settings page.
 4. Wait 2–3 minutes for the container to spin up. Render will provide a live target URL (e.g., `https://sunshine-node-link.onrender.com`) where your app is fully active!
 NOTE: Render Free Instances spin down after 50 seconds of inactivity, so if noone is using your link and then you try to access it, it may take a little to start up. This does NOT reset your site progress.
-
-### 📋 Instructions for Huggingface Spaces
-1. Click the **Deploy to Huggingface** button above.
-2. Sign in or create a free account on Huggingface.
-3. Choose Docker as the SDK
-4. Click Public Template and paste `bacontheoverseer/SunshineNord-deployer`
 
 Thanks for choosing Sunshine!
