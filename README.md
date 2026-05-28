@@ -7,8 +7,9 @@ Deploy your own private instance of the Sunshine project. This could be for priv
 Choose a button below to deploy your own Sunshine Project link for free:
 
 <a href="https://render.com/deploy?repo=https://github.com/bacontheoverseer/SunshineNord-deployer">
-  <img src="https://render.com/images/deploy-to-render.svg" alt="Deploy to Render">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
+
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/redirect?template_url=https://github.com/bacontheoverseer/SunshineNord-deployer)
 
