@@ -18,8 +18,11 @@ Choose a button below to deploy your own Sunshine Project link for free:
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
-[![Deploy to Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-to-spaces-blue.svg)](https://huggingface.co/new-space?template=bacontheoverseer/SunshineNord-deployer)
+### 🚀 1-Click Deployment
 
+| Platform | Deployment Link | Instructions |
+| :--- | :--- | :--- |
+| **Hugging Face** | [![Deploy to Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-to-spaces-blue.svg)](https://huggingface.co/new-space) | 1. Click the badge.<br>2. Choose **Docker** as the SDK.<br>3. Click **Public template** and paste `bacontheoverseer/SunshineNord-deployer`. |
 
 ### 📋 Instructions
 1. Click the **Deploy to Render** button above.
